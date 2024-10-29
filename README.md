@@ -6,6 +6,8 @@
 
       If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/).
 
+      This repo includes the spam codes in ```routes/merchRoute.js```
+
       If you want to check if Node.js has been installed successfully, open terminal and type ```node -v```.
 
       If everything is ok, you should see something like ```v20.13.1```
