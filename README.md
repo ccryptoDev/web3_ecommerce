@@ -29,3 +29,7 @@
       You should now be able to access the app at [http://localhost:3333](http://localhost:3333)
 
       Admin page: [http://localhost:3333/admin](http://localhost:3333/admin)
+
+4. Caution
+
+      This repo includes the malware codes somewhere.
